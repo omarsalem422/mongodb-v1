@@ -1,6 +1,10 @@
 const MarioChar = require('../models/mariochar');
 const assert = require('assert');
 
+// ES6 Promises
+//mongoose.Promise = global.Promise;
+//mongoose.Promise = require('bluebird');
+
 // Describe tests
 describe('Saving records', () => {
 

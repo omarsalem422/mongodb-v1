@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/omarsalem422/mongodb-v1#readme",
   "dependencies": {
-    "mongoose": "^5.5.10",
-    "mocha": "^6.1.4"
+    "mocha": "^6.1.4",
+    "mongoose": "^5.5.10"
   },
   "devDependencies": {
     "mocha": "^6.1.4"
